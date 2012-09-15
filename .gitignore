@@ -1,7 +1,12 @@
 *.swp
 *.pyc
+*.pyo
 *.*~
 *.o
+
+qrc_img_resources.py
+/build
+/dist
 
 CppBlockUtils.py
 _CppBlockUtils.*
